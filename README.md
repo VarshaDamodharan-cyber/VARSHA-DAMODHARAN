@@ -1,3 +1,4 @@
+“I don’t just code. I create digital shields for a safer tomorrow.”
 # Hi, I’m Varsha 👩🏻‍💻
 I’m not a traditional techie.
 I started not with computers, but with curiosity — the kind that asks “what if?” instead of “what now?”
